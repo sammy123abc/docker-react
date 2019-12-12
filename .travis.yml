@@ -6,4 +6,4 @@ before_install:
   - docker build -t samarthabcd/docker-react -f Dockerfile.dev .
 
 script:
-  - docker run -e CI=true samarthsrinath/docker-react yarn test
+  - docker run -e CI=true samarthabcd/docker-react yarn test
