@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.js</code> Done DOne.
         </p>
         <p>
-        Changed on feature branch. Pretty sure i changed it.
+        Changed on feature branch. No, I, changed it.
         </p>
         <a
           className="App-link"
